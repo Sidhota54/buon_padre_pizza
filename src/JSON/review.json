@@ -1,0 +1,53 @@
+[
+    {
+        "id": 1,
+        "img":"https://s3-media0.fl.yelpcdn.com/photo/GGdUFyQN1TOlw4SfjXUMTw/ls.jpg",
+        "name":"Phil C.",
+        "location": "From Chandler, AZ",
+        "comment":" There are many pizza options but this one by far is my favorite. The sauce, freshness of ingredients, crispy crust, thinking about it is getting me drooling :) Got to try their wings too!"
+    },
+    {
+        "id": 2,
+        "img":"https://s3-media0.fl.yelpcdn.com/photo/kc4gEvw0thzQ7aBGr47Lew/ls.jpg",
+        "name":"Corina J.",
+        "location": "Chandler, AZ",
+        "comment":" I appreciate this establishment! The owner is super down to earth and friendly. He hires responsible younger teenagers who need the experience. His food is tasty and reasonably priced. My sons often go to the skatepark in this complex and they rave about how kind the owner of Buon Padre is to them when they come in with a couple of bucks. He doesn't tell them to get lost. In these difficult times, I try to encourage my yeeps to hu great places like this! The place is clean. They have 3 tables inside and an outdoor patio. They serve wine and beer and have a tasty, full menu. They use good ingredients and you are happy when you're done. Go check this place out! Its at the end of the complex next to the McD's."
+    },
+    {
+        "id": 3,
+        "img":"https://s3-media0.fl.yelpcdn.com/photo/94QatJ7ogLKaiKN2QAFq1g/ls.jpg",
+        "name":"Melissa M.",
+        "location": "Los Angeles, CA",
+        "comment":" I'm sad I didn't have time to take a picture to post up but I was too busy devouring this delicious food.Visiting from Cali and was in the mood to dig into some pizza and wings and this was definitely the SPOT! Bomb.com Idk when I'll be going back to AZ but this pizza and wings make me want to drive back for more!"
+    },
+    {
+        "id": 4,
+        "img":"https://s3-media0.fl.yelpcdn.com/photo/PLaix7gwtg5UTz5QZPrReA/ls.jpg",
+        "name":"Diana H.",
+        "location": "Scottsdale, AZ",
+        "comment":" The pizza here is so good. I was so excited to try the pepperoni on the pizza from the pictures. Exactly the same. The best pepperoni on a pizza. The service was wonderful and everyone was so nice. I had such a good pizza dining experience. Thank you."
+    },
+    {
+        "id": 5,
+        "img":"https://s3-media0.fl.yelpcdn.com/photo/fzXRWxt20BIX1ZtCBnPoig/ls.jpg",
+        "name":"Kellie F.",
+        "location": "Chandler, AZ",
+        "comment":" My husband and I have ordered twice now from Buon Padre Pizza and have had a wonderful experience both times! The pizza is always full of flavor, love the crust and well cooked! The calzone, cheese with pepperoni, was absolutely delicious! We live down the street and will be back again and again! Thank you so much for your passion for all that you do! We enjoy it very much !"
+    },
+    {
+        "id": 6,
+        "img":"https://s3-media0.fl.yelpcdn.com/photo/XllzAVvraFoxagXeqGcTNg/ls.jpg",
+        "name":"Paul W.",
+        "location": "Gilbert, AZ",
+        "comment":"A little hard to find but worth the drive. Quality ingredients, old world family recipes served with gratitude and service in mind. First time there and I could quickly tell these guys are legit. I like it and we will definitely go back. My wife looked at me with a big smile on her face after taking a bite of their pizza for the time and said ` Where did you get this pizza from? ` I said Buon Padre, It's in the crust. not like that mass-produced fast-food pizza dough. This stuff has some real flavor. "
+    },
+    {
+        "id": 7,
+        "img":"https://s3-media0.fl.yelpcdn.com/photo/2O0L-tQCaBPK1KKM2utUuw/ls.jpg",
+        "name":"Tim F.",
+        "location": "From Chandler, AZ",
+        "comment":" This little pizza shop is a hidden gem ! My wife and I have been trying to maintain a low carb diet and pizza is our kryptonite!  Well this place offers a cauliflower crust pizza that kicks A$$!  Our kids actually prefer their cauliflower crust over any other pizza crust at any pizza shop. The crust is thin, crispy, and great tasting. I have never asked but I expect it is very near zero carbs "
+    }
+
+
+]

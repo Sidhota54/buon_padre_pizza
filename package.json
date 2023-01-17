@@ -1,0 +1,36 @@
+{
+  "name": "buonpadrepizza",
+  "version": "1.0.0",
+  "private": true,
+  "description": "buonpadrepizza",
+  "author": "siddharth.hota@nettantra.net",
+  "keywords": [
+    "gatsby"
+  ],
+  "scripts": {
+    "develop": "gatsby develop",
+    "start": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean"
+  },
+  "dependencies": {
+    "framer-motion": "^8.4.0",
+    "gatsby": "^5.3.3",
+    "gatsby-link": "^5.4.0",
+    "gatsby-plugin-google-fonts": "^1.0.1",
+    "gatsby-plugin-manifest": "^5.4.0",
+    "gatsby-plugin-transition-link": "^1.20.5",
+    "gatsby-react-router-scroll": "^6.4.0",
+    "gatsby-script": "^2.4.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-multi-carousel": "^2.8.2"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.13",
+    "gatsby-plugin-postcss": "^6.3.0",
+    "postcss": "^8.4.20",
+    "tailwindcss": "^3.2.4"
+  }
+}

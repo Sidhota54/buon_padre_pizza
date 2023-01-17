@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html{
+    font-family: 'Barlow', sans-serif;
+}
+.Caveat{
+    font-family: 'Caveat', cursive;
+}
+html:focus-within {
+    scroll-behavior: smooth;
+    }
